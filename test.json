@@ -1,0 +1,12 @@
+[
+  {
+    "peak": "Rigi",
+    "height": "2000",
+    "hasPublicTransportToTop": true,
+    "Canton": "SZ",
+    "difficulty": "T3",
+    "length": "3000",
+    "goingUp": "1500",
+    "goingDown": "200"
+  }
+]
